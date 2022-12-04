@@ -13,9 +13,7 @@ const HeroSection = ({ myData }) => {
 				<p className="intro-data">Welcome to </p>
 				<h1> {name} </h1>
 				<p>
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-					atque temporibus veniam doloribus libero ad error omnis voluptates
-					animi! Suscipit sapiente.
+					Do not wait any further. Get ready to be spoilt for choice when you explore our electronics products' collection to buy your favourite picks online.
 				</p>
 				<NavLink  to="/">
 					<Button>show now</Button>
